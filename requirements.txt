@@ -1,0 +1,10 @@
+# SDK oficial do Google Gemini
+# (a própria Google recomenda fixar a versão major para evitar breaking changes)
+google-genai>=2.0.0,<3.0.0
+
+# Carrega variáveis de ambiente a partir do arquivo .env
+python-dotenv>=1.0.0
+
+# Cliente HTTP usado internamente pelo google-genai (usado aqui também
+# para identificar erros de conexão de forma específica)
+httpx>=0.27.0

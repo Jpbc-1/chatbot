@@ -1,0 +1,27 @@
+# Variáveis de ambiente (NUNCA suba sua chave de API para o Git)
+.env
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# Cache e bytecode do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuição / empacotamento
+build/
+dist/
+*.egg-info/
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
