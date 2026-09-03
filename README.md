@@ -32,12 +32,10 @@ O projeto foi pensado para ser simples de ler, simples de rodar e fácil de este
 
 ##  Tecnologias utilizadas
 
-| Tecnologia | Uso no projeto |
-|---|---|
-| [Python 3.11+]
-| [google-genai]
-| [python-dotenv]
-| [httpx]
+Python 3.11+
+google-genai
+python-dotenv
+httpx
 ---
 
 ##  Requisitos
