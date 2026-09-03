@@ -56,7 +56,7 @@ Clone o repositório e crie um ambiente virtual :
 
 ```bash
 git clone https://github.com/seu-usuario/chatbot.git
-cd gemini-cli-chatbot
+cd chatbot
 
 # Criar ambiente virtual
 python -m venv venv
@@ -134,7 +134,7 @@ Você: exit
 ##  Estrutura do projeto
 
 ```text
-gemini-cli-chatbot/
+chatbot/
 ├── main.py            # Código principal do chatbot
 ├── requirements.txt    # Dependências do projeto
 ├── .env.example        # Modelo de configuração das variáveis de ambiente
